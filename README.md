@@ -25,5 +25,6 @@
 + ## 4.Type conversion:
 + ### Number("3.14")
 + ## 5.Asignment:
-+ ### =,+=,-=,*=,/=
++ ### =,+=,-=,*=,/=;
++ ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1609909393567/WSF4GApTZ.png?auto=compress,format&format=webp)
 + ![](https://portalintegrators.com/wp-content/uploads/2017/03/AdobeStock_62651418.jpeg)
